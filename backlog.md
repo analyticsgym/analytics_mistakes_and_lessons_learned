@@ -1,0 +1,3 @@
+- align on requirements and validate data at project kickoff vs near deadline
+- data pipeline design for robust against outlier type anaytics tracking events
+- metric generation on over firing events
