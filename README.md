@@ -36,22 +36,25 @@ made and/or issues I’ve observed first hand.
 
 ## 5. Not slicing the data and missing a segmentation story or confounding variable (1 of 2)
 
+- Learning: invest time in exploratory analysis and segmentation before anchoring on conclusions for aggregate metrics trends/modeling
+
 ![](analysis_scenarios_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
 
-## 5. Not slicing the data and missing a segmentation story or confounding variable (2 of 2)
+## 5. Not slicing the data and missing a segmentation story or confounding variable (2 of 2) 
+
+- Appendix: on the usefulness of segmenting aggregate metrics, [Gokul makes a similar point here](https://www.linkedin.com/posts/gokulrajaram1_segment-always-segment-most-confounding-activity-7451418565217378304-KghJ/) [April 2026].
 
 ![](analysis_scenarios_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
 
-## 6. Teyman’s law: the more interesting the data the more likely it’s due to error
+## 6. Twyman’s Law: the more interesting the data looks, the more likely it is due to error
 
-- Learning: when stable/normal metrics break away from the norm check
-  for analytics tracking issues and/or data pipeline issues.
+- Learning: when stable or normal metrics suddenly break away from the norm, check for analytics tracking issues and/or data pipeline issues before jumping straight into coherent narrative building.
 
 ![](analysis_scenarios_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
 
 ### 7. Overly complex data visualization without clear insight
 
-- Learning
+- Learning:
   - keep it simple
   - business stakeholders should be able to get the point of
     visualization in a quick and intuitive way
